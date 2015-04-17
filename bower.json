@@ -1,0 +1,16 @@
+{
+  "name": "videojs-ima",
+  "version": "0.2.0",
+  "homepage": "https://github.com/Aboutcom/videojs-ima",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "examples",
+    "CONTRIBUTING.md",
+    "README.md",
+    "tests"
+  ]
+}
